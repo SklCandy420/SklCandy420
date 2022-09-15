@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working as a Software Engineer 
 
-- 📫 Reach me through mail :- **raza999syed@gmail.com**
+- 📫 Reach out to me through mail :- **raza999syed@gmail.com**
 
 - ⚡ Fun fact :- Music🎵 is the reasons to live.
 
