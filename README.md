@@ -8,7 +8,7 @@
 
 - 📫 Reach out to me through mail :- **raza999syed@gmail.com**
 
-- ⚡ Fun fact :- Music🎵 is the reasons to live.
+- ⚡ T'was a pleasure, princess. - Yours truly, Biryani.
 
 <br>
 
