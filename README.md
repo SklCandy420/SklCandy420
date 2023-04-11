@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github.com/SklCandy420/SklCandy420/blob/main/animation_500_kxa883sd.gif" alt="SklCandy420" /></p>
 
 
-- 🌱 I’m currently working as a Software Engineer 
+- 🌱 I’m currently working as a Software Engineer in Samsung Electronics :)
 
 - 📫 Reach out to me through mail:-**raza999syed@gmail.com**
 
