@@ -22,7 +22,9 @@
       alt="syedxraza" height="30" width="40" /></a>
 </p>
 
-<br>
+<br/>
+<br/>
+
 
 ### 📝  Programming Languages:
 
@@ -30,12 +32,9 @@
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Rust.png" />
-<!--   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Rust.svg" /> -->
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Swift.svg" />
-  <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Solidity.svg" /> -->
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Solidity.png" />
 <br/>
 <br/>
 <br/>
