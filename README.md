@@ -24,56 +24,87 @@
 
 <br>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart"
-      width="40" height="40" /> </a>
-      <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> </p>
-      <br>
+### 📝  Programming Languages:
 
-<h3 align="left">Frameworks:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> 
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-      alt="flutter" width="40" height="40" /> </a> </p>
-      <br>
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Rust.png" />
+<!--   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Rust.svg" /> -->
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Swift.svg" />
+  <!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Solidity.svg" /> -->
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Solidity.png" />
+<br/>
+<br/>
+<br/>
+<br/>
 
-<h3 align="left">Databases:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /> </a></p>
-<br>
+### 🖼️  Frameworks and Tools:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/React.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/GraphQL.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Svelte.svg" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Spring.svg" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 🛠️  DevOps Tools:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Grafana.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 📚  Databases:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redis.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
+
+<!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Blender.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" /> -->
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 💻  IDE:
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Vim.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Xcode.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" />
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
