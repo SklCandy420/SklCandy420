@@ -8,7 +8,7 @@
 
 - 📫 Reach out to me through mail:-**raza999syed@gmail.com**
 
-- ⚡ T'was a pleasure, princess. - Yours truly,Biryani.
+- ⚡ T'was a pleasure, princess. - yours truly, Biryani.
 
 <br>
 
